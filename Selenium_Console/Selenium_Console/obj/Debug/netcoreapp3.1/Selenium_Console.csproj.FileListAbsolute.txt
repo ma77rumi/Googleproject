@@ -1,0 +1,17 @@
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\bin\Debug\netcoreapp3.1\Selenium_Console.exe
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\bin\Debug\netcoreapp3.1\Selenium_Console.deps.json
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\bin\Debug\netcoreapp3.1\Selenium_Console.runtimeconfig.json
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\bin\Debug\netcoreapp3.1\Selenium_Console.runtimeconfig.dev.json
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\bin\Debug\netcoreapp3.1\Selenium_Console.dll
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\bin\Debug\netcoreapp3.1\Selenium_Console.pdb
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\obj\Debug\netcoreapp3.1\Selenium_Console.csprojAssemblyReference.cache
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\obj\Debug\netcoreapp3.1\Selenium_Console.AssemblyInfoInputs.cache
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\obj\Debug\netcoreapp3.1\Selenium_Console.AssemblyInfo.cs
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\obj\Debug\netcoreapp3.1\Selenium_Console.csproj.CoreCompileInputs.cache
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\obj\Debug\netcoreapp3.1\Selenium_Console.csproj.CopyComplete
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\obj\Debug\netcoreapp3.1\Selenium_Console.dll
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\obj\Debug\netcoreapp3.1\Selenium_Console.pdb
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\obj\Debug\netcoreapp3.1\Selenium_Console.genruntimeconfig.cache
+C:\Users\Biplab\source\repos\Selenium_Console\Selenium_Console\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
